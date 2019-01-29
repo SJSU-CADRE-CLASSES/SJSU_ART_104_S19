@@ -78,18 +78,19 @@ Schedule
 | *Week 3* 02/12     | **Reading 2 Due** ** Presentation + Discussion ** **Reading 3: Assigned in Class** Website Setup and Git Pipeline |
 | *Week 4* 02/19      | **Reading 3 Due** ** Presentation + Discussion ** **Reading 4: Assigned in Class** ** HTML 2 |
 | *Week 5* 02/26      | **Reading 4 Due** ** Presentation + Discussion ** **Reading 5: Assigned in Class** ** Forming SWITCH Groups and Begin Working on site design|
-| *Week 6* 03/05      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: Assigned in Class** ** Final Paper Requirements Posted to the blog. Students will present their ideas on 11/11 to the class. |
+| *Week 6* 03/05      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: Assigned in Class** ** Final Paper Requirements Posted to the Git. Students will present their ideas on 11/11 to the class. |
 | *Week 7* 03/12      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: Assigned in Class** ** Group Work Beginning Research For Final |
-| *Week 8* 03/26      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: assigned in class** ** Research and in class work on papers |
-| *Week 9* 04/02      | **Reading 8 Due** ** Presentation + Discussion ** **Reading 9: assigned in class** ** Research and in class work on papers |
-| *Week 10* 04/16     | **Reading 9 Due** ** Presentation + Discussion ** **Reading 10: assigned in class** ** Research and in class work on papers |
-| *Week 11* 04/22     | **Reading 10 Due** ** Presentation + Discussion ** **Reading 11: assigned in class** ** Research and in class work on papers |
-| *Week 12* 04/11     | Final Presentation Proposals + Discussion/Critique **Reading 12 bonus: assigned in class** |
-| *Week 13* 04/18     | No Class Due to ATC (Advancement to Candidacy) ** Final Paper Requirements Posted to the git. Students will present their ideas on 11/08 to the class. |
-| *Week 14* 04/25     |  |
-| *Week 15* 05/02     | **Reading 11 Due** |
+| *Week 8* 03/19      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: assigned in class** ** Research and in class work on papers |
+| *Week 9* 03/26      | **Reading 8 Due** ** Presentation + Discussion ** **Reading 9: assigned in class** ** Research and in class work on papers |
+| *Week 10* 04/02     | **Spring Recess - No Class!** |
+| *Week 11* 04/09     | **Reading 9 Due** ** Presentation + Discussion ** **Reading 10: assigned in class** ** Research and in class work on papers |
+| *Week 12* 04/16     | **Reading 10 Due** ** Presentation + Discussion ** **Reading 11: assigned in class** ** Research and in class work on papers |
+| *Week 13* 04/22     | ATC 9-12:30 MLK 225 |
+| *Week 13* 04/23     | ATC 9-12:30 MLK 225 |
+| *Week 14* 04/23     | **Reading 11 Due** ** Presentation + Discussion ** **Reading 12: assigned in class** ** Research and in class work on papers |
+| *Week 15* 04/30     | **Reading 12 Due** Research and in class work on papers |
 | Date TBA            | **Hammer Graduating Group Show** |
-| *Week 16* 05/09     | Final presentations ** Final 7-page paper due no later than Sunday, December 17th The final paper and project format will be assigned in class on Wednesday, November 4th and available online in PDF format |
+| *Week 16* 05/07     | Final presentations ** Final 7-page paper due no later than Sunday, December 17th The final paper and project format will be assigned in class on Wednesday, November 4th and available online in PDF format |
 | *Final*  TBA      | Final Released |
 |                  |  |
 
