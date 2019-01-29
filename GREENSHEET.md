@@ -67,7 +67,7 @@ Required weekly reading and writing assignments must be submitted on the day the
 
 **Final Paper and Research Presentation = 20%** 
 
-The class will conclude with a 7-page written paper. Final papers and research projects must demonstrate comprehension of, and engagement with, at least two of the primary seminar themes and topics. Research leading to the final presentation will begin in early November when the final project assignment is given.
+The class will conclude with a final paper for publication to the SWITCH Journal. Final papers and research projects must demonstrate comprehension of, and engagement with, at least two of the primary seminar themes and topics. Research leading to the final presentation will begin in early November when the final project assignment is assigned.
 
 
 Schedule
