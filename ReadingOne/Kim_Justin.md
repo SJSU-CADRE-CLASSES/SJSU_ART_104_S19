@@ -6,7 +6,7 @@
 
 Applying that to today's culture, maybe today's artists will found the best inspiration from a dysfunctional evnironment. At this day and age artists have practiced with nearly every medium for some period of time now till a point where both the audience and aspiring artists may see art in those mediums as repeatitive or overdone. It's hard to express the art when you are quickly categortized. Maybe like the early artists from Bowen's time, our early artists needs that same inspiration, taking apart and rearranging not only the medium but also the tools to make it to create unimagined work that will allow new artists to explore with new mediums and creating a cycle that will repeat with creatativeity.  
 
-### "MAKING DUCHAMP RELEVANT IN THE DIGITAL AGE" from Switch 28
+### "MAKING DUCHAMP RELEVANT IN THE DIGITAL AGE" from Switch 28.....
 
 In "MAKING DUCHAMP RELEVANT IN THE DIGITAL AGE" from Switch 28, hanna Regev discusses Scott Kildall's own chess game Playing Duchamp, a chress game where the player plays chress against Marcel Duchamp, and the it's purpose and effect in the art world. According to Regev, Duchamp was highly known as painter to conceptual artist, film maker, chess player, mathematician, composer and how chress itself was one of his major passions in the art world. 
 
