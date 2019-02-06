@@ -1,6 +1,6 @@
 # READING 1
 
-###"The Function of Dysfunction" from Switch 23
+### "The Function of Dysfunction" from Switch 23
 
 "The Function of Dysfunction" from Switch 23 disscusses the aspects of dysfunction. Dore Bowen sets a tone on how artists are protrayed in writing as he discusses the artist that"reconfigured the world." Bowen discribes artists that created a dysfunctional enviroment and how that dismantling or reorganizaning either a object of equipment brings out some unknown potential, Equipment in this context being the two categories that make up the phase as the form and material according to Bowen. Creating said environments and creating new mediums is what influences new ideas for other artists. the equipment itself can be part of the art that provides a beter grasp what an artist con really do. 
 
