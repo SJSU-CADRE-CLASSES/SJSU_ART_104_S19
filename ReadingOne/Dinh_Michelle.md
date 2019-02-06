@@ -1,12 +1,12 @@
-# Issue 12 - Interview: Game Girlz by Geri Wittig and Max Hardcore (1996)
+# Issue 12 - Interview: Game Girlz by Geri Wittig and Max Hardcore (1999)
 
 Since the 1990s, the gaming community have greatly expanded their demographic to welcome both men and women. However, it is interesting to see how much has changed. 
 
-In the interview dating back in 1996, Vangie Beal, the director of GameGirlz.com, discusses the main reason of creating this site was to voice gender equality and to build a community where both men and women can enjoy online gaming without running into demeaning comments. I agree with Beal that the online gaming community had been predominantly male, a “boys only club” she describes it. The amount of women who work in the gaming industry back in the 1990s had to hide their identities in fear of being judged by others who work in the same field (Wittig and Hardcore, 1996). 
+In the interview dating back in 1996, Vangie Beal, the director of GameGirlz.com, discusses the main reason of creating this site was to voice gender equality and to build a community where both men and women can enjoy online gaming without running into demeaning comments. I agree with Beal that the online gaming community had been predominantly male, a “boys only club” she describes it. The amount of women who work in the gaming industry back in the 1990s had to hide their identities in fear of being judged by others who work in the same field (Wittig and Hardcore, 1999). 
 
 Fast forwarding to the 2000s, more girl gamers have emerged on multiple platforms such as YouTube and Twitch to stream gameplays. In addition, the number of women who enter the tech and gaming industry has grown tremendously. There may be games that have a targeted audience, but our generation is walking and currently working on creating a gender equality/gender neutral space. Technological advances in the gaming world expanded beyond just online with consoles such as the GameCube, the Wii, Wii U, the Switch, PS4, Xbox, and the list goes on. I feel that many online multiplayer games such as League of Legends, Overwatch, and Fornite do have a larger male audience. Many of their male players are still surprised to see a girl gamer amongst them. I do believe that the gaming industry will always be predominantly male, but the inclusion of female gamers have been widely more accepted than before.
 
-# Issue 3 - Artificial Love Life is as Real as the Real Thing by Professor S. Farsad
+# Issue 3 - Artificial Love Life is as Real as the Real Thing by Professor S. Farsad (1996)
 
 It is interesting to tackle on the concept of love. Voltaire (Enlightenment writer) and Freud (neurologist) have stated that people have experience this idea of love, however, it is difficult to actually pinpoint what this thing called love is. 
 
