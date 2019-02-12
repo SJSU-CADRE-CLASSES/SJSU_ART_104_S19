@@ -15,8 +15,7 @@ nudity was a big subject in oil painting where one of the interviewers described
 shows how what nudity in paintings can give out a certain meaning and how that interaction is still similar 
 today where woman try to measure up to the erotic images. 
 
-In the third episode, it talks about the value of paintings and where it came from 
-
+In the third episode, it talks about the value of paintings and where it came from. He talked about how in the paintings they preserve the moments indicating that we can’t replicate every moment. Something I didn’t understand was what he meant by getting confused by the exceptional paintings and the ones in art museums to confuse us. Aren’t the paintings in the museums supposed to show us that the moments are captured through paintings? How are they trying to confuse us? I also agree with him when he said that traditional oil painting has been broken. Back then they would paint portraits of people’s prestige, wealth and fortune. But today we have photography instead to show off the wealth of someone such as Instagram where everyone shows of where they’ve traveled to.
 
 As for the last documentary, it introduced seeing how we are surrounded by images and that it alters our way of
 life. It was explained that the screens are a form of language where words and images both appear everywhere we
