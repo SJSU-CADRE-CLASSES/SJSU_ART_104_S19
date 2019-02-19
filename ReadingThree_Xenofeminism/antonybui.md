@@ -2,7 +2,7 @@ Antony Bui
 
 # Bias in Media
 
-##Xenofeminism 
+## Xenofeminism 
 Technology has standards that we may not always think about. We always expect the newest technology to be an improvement over the previous one. We have a mindset that the newest tech has to be better and faster. It’s been that way for a long time and the increase/improvement from each successor has been a huge leap but it seems that it is slowing down or not as big as an improvement as the last. This mindset has caused old technology to feel like waste or relics that aren’t useful anymore. We can see this through flip phones or ipods. These objects work perfectly fine for certain needs but using them in front of others might cause some backlash. 
 
 ### Social Media
