@@ -1,4 +1,4 @@
-# Xenofeminism Manifesto 
+# Xenofeminism 
 http://www.laboriacuboniks.net/index.html#firstPage
 
 From my understanding, this is an anonymous manifesto written by feminist collective Laboria Cuboniks which I think is really interesting. What they are trying to do is denaturalize the disciplines of science, technology, and rationalism from the grip of patriarchal power. There are seven parts in the manifesto: Zero, Interrupt, Trap, Parity, Adjust, Carry and Overflow. The language of the manifesto is different from any other manifestos I read; it is succinct and determined. 
