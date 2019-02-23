@@ -23,11 +23,11 @@ This semesters Interdisciplinary Seminar in Digital Media will work toward bring
 Learning Outcomes
 -----------------
 
-###### LO1: understand the context of digital media art within contemporary art and society
-###### LO2: develop skills in creative research and problem-solving, brainstorming, and visual communication 
-###### LO3: deploy their skills for artistic achievement
-###### LO4: demonstrate familiarity with the language of visual critique
-###### LO5: expand their skills in writing to include analysis, and critical review
+###### LO1: Understand the context of digital media art within contemporary art and society
+###### LO2: Develop skills in creative research and problem-solving, brainstorming, and visual communication 
+###### LO3: Deploy their skills for artistic achievement
+###### LO4: Demonstrate familiarity with the language of visual critique
+###### LO5: Expand their skills in writing to include analysis, and critical review
 
 Textbook
 --------
@@ -59,7 +59,7 @@ Grading Policy
 
 **Seminar Participation = 10% + 10%** 
 
-It is required that you attend and participate regularly in seminar discussion, this will account for 10% of your grade. The course includes engaged group dialogue and student-lead presentations of the assigned readings along with visual material. The student-lead presentations will be assigned at the beginning of the semester and your presentation and preparedness will account for an additional 10% of your grade. Students will be assessed based upon their individual level of engagement in seminar and the quality of student-lead presentations as defined in the grading policy/ rubric below. 
+It is required that you attend and participate regularly in seminar discussion, this will account for 10% of your grade. The course includes engaged group dialogue and student-led presentations of the assigned readings along with visual material. The student-lead presentations will be assigned at the beginning of the semester and your presentation and preparedness will account for an additional 10% of your grade. Students will be assessed based upon their individual level of engagement in seminar and the quality of student-lead presentations as defined in the grading policy/ rubric below. 
 
 **Weekly Reading Responses = 60% (12 x 5% each response)** 
 
