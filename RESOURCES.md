@@ -42,3 +42,13 @@ Resources
 11. Web Archive GameGirlz https://web.archive.org/web/20000229044502/http://www.gamegirlz.com/
 12. LaTurbo Avedon https://turboavedon.com/
 13. Panther Modern http://panthermodern.org/roomtwelve-images.html
+
+2/12
+1. Photoshoped Images https://www.youtube.com/watch?v=SeNjDcMKHyA
+2. The Anxiety of Facebook https://psychcentral.com/lib/the-anxiety-of-facebook/
+3. Screaming yellow Painting https://www.youtube.com/watch?v=pPaEdvCs1C8
+4. Material Speculation http://www.morehshin.com/material-speculation-isis/
+5. Let's Paint https://www.youtube.com/watch?v=PvbL_5rH1QQ
+6. Alvin Lucier I Am Sitting in A Room https://www.youtube.com/watch?v=fAxHlLK3Oyk
+7. NYT Nefertiti https://www.nytimes.com/2016/03/02/arts/design/other-nefertiti-3d-printer.html
+8. Steve Reich Come Out https://www.youtube.com/watch?v=g0WVh1D0N50
