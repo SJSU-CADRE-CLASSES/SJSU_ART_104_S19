@@ -1,3 +1,5 @@
+## Xenofeminism
+
 This Xenofeminism “call to action” was quite interesting for me to read since prior to this article I honestly haven’t considered the genders issues and inequities at such a scale as these women mentioned here. It almost makes it upset for me regarding my sense of awareness considering I have been aware of such actions done, especially in gaming, yet never really acted upon it or never ‘really care’.  
 <br>
 	What I really got here was the bringing forth the issues of the social role, specifically gender roles, within a technological space. In terms of the bias within technology, I honestly don’t want to say it as truth in some shape or form, but I feel that these biases were a foundation or stepping stone of our behavior regarding technologies, social media especially. What I mean is that I guess that in the early years of development for these things their entire culture was completely washed with masculinity. Which means that the early stages of technology would unfortunately inherit some of masculinity in terms of the use or user since it was developed in a masculine mindset. That’s how a part of me feel of the early years considering the sexist stereotypes still present today of the “manly” men and “girly” girls.  
@@ -6,3 +8,7 @@ One thing that caught my attention here was the idea that anti-naturalism and na
 <br>
 Before this manifesto, I don’t think that feminism needed to progress as well. I’ve always thought of it as a general term used for all issues related to said term. However, considering this manifesto I’m now thinking that maybe that said term is too board to really improve people and the society. Maybe the best way we can help improve on these issues is if we work on them one at a time. Of course, there are still the problems that persist outside of the development of technology, but the same can be applied to them as well; Narrow the scope of attack instead of tackling it one at a time.   
 
+<br>
+<br>
+<br>
+Or I could actually be referring to one aspect of xenofeminism
