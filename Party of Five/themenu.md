@@ -2,7 +2,7 @@
 
 ## social media trends  
   
-**challenges from social media 
+challenges from social media 
   
   how that effects society, especially younger generation 
   ex: Bird Box challenge, Tide Pod challenge
