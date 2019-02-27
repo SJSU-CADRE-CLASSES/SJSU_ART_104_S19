@@ -1,4 +1,4 @@
-**Nicole ( ͡° ͜ʖ ͡°) ** 
+**Nicole ( ͡° ͜ʖ ͡°)** 
 
 Emily 
 
