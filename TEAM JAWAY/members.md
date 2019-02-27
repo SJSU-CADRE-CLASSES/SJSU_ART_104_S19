@@ -1,3 +1,2 @@
 Anthony Sokry
-Justin Kim
-Wesley Bower
+Yulia Valiakhmetova
