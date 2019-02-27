@@ -1,11 +1,10 @@
+# Nicole *
 
 Emily 
 
 Ianne
 
 Michelle 
-
-# Nicole *
 
 Eric
 
