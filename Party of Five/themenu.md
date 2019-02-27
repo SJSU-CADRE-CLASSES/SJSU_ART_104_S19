@@ -2,14 +2,15 @@
 
 ## social media trends  
   
-  challenges from social media 
+**challenges from social media 
   
   how that effects society, especially younger generation 
   ex: Bird Box challenge, Tide Pod challenge
   
-  why do we use social media? 
-  how things go viral? trend?
+*  why do we use social media? 
+ * how things go viral? trend?
+*  why did some social media platforms disappear? aim? myspace? vine?
   
-  building a social media influencer
+ * building a social media influencer
   
 
