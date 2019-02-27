@@ -11,4 +11,4 @@ Before this manifesto, I don’t think that feminism needed to progress as well.
 <br>
 <br>
 <br>
-Or I could actually be referring to one aspect of xenofeminism
+Or I could actually be referring to one aspect of xenofeminism...
