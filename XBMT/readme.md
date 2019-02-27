@@ -1,3 +1,4 @@
+Jecky Xiong, Anthony Bui, Nhi Tran, Vanessa Mora
 1. education children now and the
 2. Wealth gap
 3. Should we should a citizenship to a robot? - giving human right
