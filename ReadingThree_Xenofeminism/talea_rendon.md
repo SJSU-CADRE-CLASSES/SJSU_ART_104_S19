@@ -1,4 +1,4 @@
-#Reading 3
+Reading 3: Xenofeminism
 
 There is most definitely a gender bias built into technology. This is not a problem with just technology though. This gender 
 bias can be seen in all aspects of life and in all fields of work. We live in a patriarchal society that is nearly impossible
