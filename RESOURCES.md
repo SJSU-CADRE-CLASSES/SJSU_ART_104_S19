@@ -52,3 +52,16 @@ Resources
 6. Alvin Lucier I Am Sitting in A Room https://www.youtube.com/watch?v=fAxHlLK3Oyk
 7. NYT Nefertiti https://www.nytimes.com/2016/03/02/arts/design/other-nefertiti-3d-printer.html
 8. Steve Reich Come Out https://www.youtube.com/watch?v=g0WVh1D0N50
+
+2/26
+1. This is Alive http://thisisalive.com
+2. Dawkins on the selfish gene https://www.youtube.com/watch?v=j9p2F2oa0_k
+3. Dawkins on Memes https://www.youtube.com/watch?v=xCzb6SuyriU
+4. Soft Robots https://www.youtube.com/watch?v=A7AFsk40NGE
+5. Looking Glass Volumetric Display https://lookingglassfactory.com/
+6. Google Maps Versailles https://www.google.com/maps/@48.8049243,2.1203669,2a,75y,359.67h,102.07t/data=!3m6!1e1!3m4!1scBEaFGHH8n9irGJmOM1Img!2e0!7i13312!8i6656?hl=en
+7. V2 Institute http://v2.nl/events/test_lab-the-graduation-edition-2014
+8. Jean-Jacques Rousseau https://www.iep.utm.edu/rousseau/
+9. Low Tech Magazine https://www.lowtechmagazine.com
+10. Autopoiesis https://en.wikipedia.org/wiki/Autopoiesis
+11. Soft Robotics Toolkit https://softroboticstoolkit.com/competitions/2018
