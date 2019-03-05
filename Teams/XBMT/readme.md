@@ -9,4 +9,4 @@ Jecky Xiong, Anthony Bui, Nhi Tran, Vanessa Mora
 8. memes
 9. aliens
 10. Spirit - can we do sth else while we sleep? (Doctor Strange)
-p/s: hey it's Nhi. My family has some emergency, so I'm in Vietnam for a week. Sorry for missing. Anything new please let me know. Thanks and so sorry guys.
+
