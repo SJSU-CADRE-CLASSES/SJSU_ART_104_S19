@@ -22,3 +22,6 @@ Jecky Xiong, Anthony Bui, Nhi Tran, Vanessa Mora
 #### Gene-editiing to have more valuable society contributitor. 
 ##### How would having a social score displayed above you or on you feel? Maybe an easy way to access someone's social score.
 ### https://www.reddit.com/r/technology/comments/awb5dc/china_banned_23_million_people_with_poor_social/
+#### Social score vs Credit score
+#### How has technology helped create this social score world?
+#### The government is already collecting data on us , what if they used that to create a score without our knowledge. 
