@@ -65,3 +65,25 @@ Resources
 9. Low Tech Magazine https://www.lowtechmagazine.com
 10. Autopoiesis https://en.wikipedia.org/wiki/Autopoiesis
 11. Soft Robotics Toolkit https://softroboticstoolkit.com/competitions/2018
+
+3/5
+1. https://vimeo.com/170828532
+2. https://www.ofluxo.net/anatomy-of-oil-a-group-presentation-by-gas/
+3. https://www.jerthorp.com/
+4. http://www.livingroomlightexchange.com/
+5. https://medium.com/i-data/fake-friends-with-real-benefits-eec8c4693bd3
+6. http://panthermodern.org/roomnine.html
+7. https://replika.ai/
+8. https://en.wikipedia.org/wiki/Simulacrum
+9. http://listen.hatnote.com/#
+10. https://www.ninetyblack.com/blog/graphic-design/flat-vs-skeuomorphic-design/
+
+Internet Aesthetics
+1. http://jonrafman.com/
+2. https://www.claudiahart.com/
+3. http://rhizome.org/
+4. https://pixlpa.com/
+5. http://bmruernpnhay.com/menu.html
+6. http://main.bradtroemel.com/
+
+
