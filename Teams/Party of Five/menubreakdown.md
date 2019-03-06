@@ -24,3 +24,8 @@ Jer Thorp
 - ripple effect // how does it happen
 - Bitcoin? - negative output / hurting 
 - modernization (hard ware dev) vs. modernity (culture change based on viral content)
+
+# Website Ideas
+- bots / instagram style page
+- running on hashtag
+- get something trending
