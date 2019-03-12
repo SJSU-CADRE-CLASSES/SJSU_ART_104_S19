@@ -1,0 +1,20 @@
+*PARASITIC*
+---
+
+Yvonne Granata begins with her own accounts. Image search is a critique, or almost like a bias of what we would want people to initially think about the lamprey or whatever we happen to search up. For example, she talks about the image of the lamprey teeth, and how they might be portrayed as menacing to a viewer. She connects this to Roland Barth’s Myth in which something can be amplified through the use of photos, but the interpretation of it is not necessarily true.
+
+This portion was an eye-opener. I never thought of bias within a google search; That what I was searching for could possibly form my opinion of it just based off the images. Or at least, I never stopped to think of exactly what was happening, It more so  that I accepted what I thought and then moved on.
+
+Francois Laruelle’s solution to the critique of an object/place/person is by creating Photo-fiction. His process does not include photography, but creates an image of the object stepping away from “the idea of the object” and displaying the object as it exists. 
+
+Laruelle states that when he creates, he is thinking “with immanence and not about it.” He instead looks inward, focusing on the camera and its process rather than the object that it is taking a photo of.. I think that most of us do focus more on receiving the outcome, the end product that is possible with the use of technology. I feel that this part of the article points to the idea that we may be taking technology for granted or maybe not understanding the complications or the accomplishments that technology has gathered overtime. For example, we look forward to seeing things on our phone, we like that we can take photos and link them to our Instagram, but most of us haven’t thought about what makes the parts of our days possible.
+
+I believe that part of this article may be about knowing the difference between having a “photo of” an object, and the object. That we cannot state this picture of a squirrel is a  squirrel. It doesn’t do what a squirrel does, it only displays what could be a  position of the squirrel during that time and space. 
+
+If we were to truly bring this out of this part of the article in a general sense, it points to this idea that we have to understand that things that we perceive and how we interpret them to be does not mean they ARE what we believe they are. 
+
+Through the  project of Processing/Lampreys (2016), they connect the process to the parasitic process of a lamprey, where it needs to feed off(work off) another thing in order to live or become. The program itself becomes a form of the Lamprey. We begin to realize that we, as a society, are creating things like a parasite, in a positive way.
+
+I can see this process as a way of taking something that already exists, that is taken as normalized and modernized, and saying that maybe we shouldn’t accept this as it is, that we can grow from it. This process doesn’t entirely diminish the entirety of its old qualities, but instead repurposes it. It allows a connection with the newly created to the familiar. This instills a sense of comfort, even with a radical idea. 
+
+This article helps with the idea of recreating the subject of our own article. It allows us to see the step by step process and the reasons why the program works the way it does. As a group, we must understand that the prototype must be something that we all can understand and explain to others; That there is a purpose other than pure aesthetics. The research that we conduct will enable us to see what has been done and what is happening and somehow allow us to repurpose what is native to the world and invent a possible new nature, a new way of seeing and thinking.
