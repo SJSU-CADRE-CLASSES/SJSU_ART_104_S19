@@ -1,0 +1,3 @@
+#### Switch Article Abstract
+
+In today’s society, accelerated advancements in technology has given rise to a colossal gaming industry leading to a rapidly growing fan base and the establishment of online video game competitions, otherwise known as esports. The popularity of esports has risen exponentially over the years with people’s fascination in competition and ever growing interest in digital media. In this article, I will delve deep into why society is so engrossed in competition, why there is a blooming interest in video games, and why people have become so addicted to them. Then, I will talk about specific gaming companies that host their own competitions, such as Riot Games and Blizzard Entertainment and how their games appeal to society. 
