@@ -1,4 +1,4 @@
-Sources! Yay! :D
+Sources! Yay! :D **Chicago Manual Style!!!**
 
 - medical articles
 - documentaries
