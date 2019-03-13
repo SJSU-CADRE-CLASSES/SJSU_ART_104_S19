@@ -1,5 +1,5 @@
-<h3> Processing Lampreys by Yvette Granada</h3> 
-<p> I found Yvette Granada's article,<i> Processing Lampreys —Photo-Fiction as Digital Parasite Aesthetics, </i> to be very interesting.
+<h3> Processing Lampreys by Yvette Granata</h3> 
+<p> I found Yvette Granata's article,<i> Processing Lampreys —Photo-Fiction as Digital Parasite Aesthetics, </i> to be very interesting.
 Reading through her process helped me understand her 
 artwork better and gave it more meaning. Her pieces can be seen as very abstract if the viewer does not understand what she does for her
 precess and how it leads into her process. I believe her process is very important in the exploration of her central idea. Her idea
