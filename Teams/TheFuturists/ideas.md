@@ -1,4 +1,4 @@
-Brainstorming:::
+Brainstorming:
 
 T
 soft robotics 
@@ -28,14 +28,3 @@ abstract.md
 then the first draft April 16
 
 1500 words - everyone does 300 word write up
-
-
-
-
-
-https://www.aplususapharma.com/blog/ai-drones-3d-printing-future-healthcare-industry/
-
-Intro: Medical Feild, How 3d Printing, Ai, Ar technology
-1. 3d prinitng medical feild
-2. AI in medical feild
-3. AR medical feild
