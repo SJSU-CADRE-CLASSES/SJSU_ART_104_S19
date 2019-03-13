@@ -3,7 +3,7 @@
   - discusses the potential of social media being a market
   - people feeding off a specific topic in order to trend (bandwagon)
  
- 2. https://www.journals.elsevier.com/addictive-behaviors-reports/news/addiction-to-modern-technology-what-the-science-says-free-co
+ 2. Addiction to modern technology: what the science says free collection of articles highlights the latest trends in behavioral addiction https://www.journals.elsevier.com/addictive-behaviors-reports/news/addiction-to-modern-technology-what-the-science-says-free-co
  - this one talks about technology being an addiction
 
 3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4390616/
@@ -13,5 +13,5 @@
   - how social media entangles how things go viral (invading online and offline spaces)
 
 5. Spotting trends: the wisdom of the fewhttps://dl.acm.org/citation.cfm?id=2365967
-  - this article analyzes trends and categorizes them
+  -this article analyzes trends and categorizes them
    
