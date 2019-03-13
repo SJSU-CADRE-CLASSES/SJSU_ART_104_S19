@@ -14,4 +14,4 @@
 
 5. Spotting trends: the wisdom of the fewhttps://dl.acm.org/citation.cfm?id=2365967
   -this article analyzes trends and categorizes them
-   - 
+   
