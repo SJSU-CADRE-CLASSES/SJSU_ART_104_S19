@@ -6,7 +6,7 @@
  2. Addiction to modern technology: what the science says free collection of articles highlights the latest trends in behavioral addiction https://www.journals.elsevier.com/addictive-behaviors-reports/news/addiction-to-modern-technology-what-the-science-says-free-co
  - this one talks about technology being an addiction
 
-3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4390616/
+3. Mapping Publication Trends and Identifying Hot Spots of Research on Internet Health Information Seeking Behavior: A Quantitative and Co-Word Biclustering Analysis https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4390616/
   - internet health
 
 4. Understanding Social Media Logic: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2309065 (can be search within sjsu library)
