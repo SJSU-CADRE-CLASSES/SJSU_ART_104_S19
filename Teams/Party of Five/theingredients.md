@@ -13,5 +13,5 @@
   - how social media entangles how things go viral (invading online and offline spaces)
 
 5. Spotting trends: the wisdom of the fewhttps://dl.acm.org/citation.cfm?id=2365967
-  -this article analyzes trends and categorizes them
+  - this article analyzes trends and categorizes them
    
