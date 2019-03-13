@@ -1,3 +1,4 @@
+Brainstorming:::
 T
 soft robotics 
 
@@ -26,6 +27,8 @@ abstract.md
 then the first draft April 16
 
 1500 words - everyone does 300 word write up
+
+
 
 
 
