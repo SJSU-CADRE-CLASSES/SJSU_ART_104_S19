@@ -11,3 +11,7 @@
 
 4. Understanding Social Media Logic: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2309065 (can be search within sjsu library)
   - how social media entangles how things go viral (invading online and offline spaces)
+
+5. Spotting trends: the wisdom of the fewhttps://dl.acm.org/citation.cfm?id=2365967
+  -this article analyzes trends and categorizes them
+   - 
