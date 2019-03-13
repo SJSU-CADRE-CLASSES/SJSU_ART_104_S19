@@ -10,5 +10,5 @@
  - this one talks about technology being an addiction
 
 
-3. https://techcrunch.com/2018/05/30/internet-trends-2018/
-- trend reports
+3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4390616/
+- internet health
