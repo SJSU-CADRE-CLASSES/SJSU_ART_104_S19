@@ -1,2 +1,3 @@
 
 1. https://www.wired.co.uk/article/china-social-credit-system-explained
+2. https://www.jstor.org/stable/j.ctt807h9.13?Search=yes&resultItemClick=true&searchText=social&searchText=credit&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dsocial%2Bcredit%2B&ab_segments=0%2Ftbsub-1%2Frelevance_config_with_defaults&refreqid=search%3A969009c33503082fb8c256fd30765876&seq=1#metadata_info_tab_contents
