@@ -24,3 +24,5 @@ abstract.md
 -paragraph of what the article will be about 
 
 then the first draft April 16
+
+1500 words - everyone does 300 word write up
