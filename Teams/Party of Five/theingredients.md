@@ -10,4 +10,5 @@
  - this one talks about technology being an addiction
 
 
-https://techcrunch.com/2018/05/30/internet-trends-2018/
+3. https://techcrunch.com/2018/05/30/internet-trends-2018/
+- trend reports
