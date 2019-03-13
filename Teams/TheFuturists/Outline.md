@@ -6,4 +6,5 @@
 <p>https://www.aplususapharma.com/blog/ai-drones-3d-printing-future-healthcare-industry/</p>
 <p>2. AI in medical field</p>
 <p>https://search.proquest.com/docview/2076311334?pq-origsite=gscholar</p>
+<p>https://www.ijcai.org/proceedings/2018/0717.pdf</p>
 <p>3. AR medical field</p>
