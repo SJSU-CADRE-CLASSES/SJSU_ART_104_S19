@@ -86,4 +86,13 @@ Internet Aesthetics
 5. http://bmruernpnhay.com/menu.html
 6. http://main.bradtroemel.com/
 
+3/13
+1. Tardigrade https://www.google.com/search?biw=1683&bih=848&tbm=isch&sa=1&ei=ymeIXNrCBpK90PEPqu2VQA&q=tardigrade+gif&oq=tardigrade+gif&gs_l=img.3..0j0i5i30j0i24l2.12373.13253..13556...0.0..0.53.189.4......0....1..gws-wiz-img.......0i67j0i8i30j0i30.srNH3wmzs3k#imgrc=beCjpK42ZtcHpM:
+2. Eloquent JavaScript https://eloquentjavascript.net/02_program_structure.html
+3. Holly Herndon https://www.youtube.com/watch?v=r4sROgbaeOs
+4. Caroline Sinders https://carolinesinders.com/selected-writing
+5. BibMe http://www.bibme.org/
+6. SOFTWAR(e) http://softwar.online/manifesto.html
+7. Lamprey https://www.google.com/search?q=lamprey&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiqprzngf7gAhXMo54KHWmDDxcQ_AUIDigB&biw=1683&bih=848&dpr=1.1
+8. Nick Bostrom https://nickbostrom.com/
 
