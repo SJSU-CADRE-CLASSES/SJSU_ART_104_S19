@@ -82,11 +82,11 @@ Schedule
 | *Week 5* 02/26      | **Reading 4 Due** ** Presentation + Discussion ** **Reading 5: Assigned in Class** ** Forming SWITCH Groups and Begin Working on site design|
 | *Week 6* 03/05      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: Assigned in Class** ** Final Paper Requirements Posted to the Git. Students will present their ideas on 11/11 to the class. |
 | *Week 7* 03/12      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: Assigned in Class** ** Group Work Beginning Research For Final |
-| *Week 8* 03/19      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: assigned in class** ** Research and in class work on papers |
+| *Week 8* 03/19      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: assigned in class** ** Research and in class work on papers **Students Should Have 8 to 10 sources identified for Bibliography**|
 | *Week 9* 03/26      | **Reading 8 Due** ** Presentation + Discussion ** **Reading 9: assigned in class** ** Research and in class work on papers |
 | *Week 10* 04/02     | **Spring Recess - No Class!** |
 | *Week 11* 04/09     | **Reading 9 Due** ** Presentation + Discussion ** **Reading 10: assigned in class** ** Research and in class work on papers |
-| *Week 12* 04/16     | **Reading 10 Due** ** Presentation + Discussion ** **Reading 11: assigned in class** ** Research and in class work on papers |
+| *Week 12* 04/16     | **Reading 10 Due** ** Presentation + Discussion ** **Reading 11: assigned in class** ** Research and in class work on papers ****|
 | *Week 13* 04/22     | ATC 9-12:30 MLK 225 |
 | *Week 13* 04/23     | ATC 9-12:30 MLK 225 |
 | *Week 14* 04/23     | **Reading 11 Due** ** Presentation + Discussion ** **Reading 12: assigned in class** ** Research and in class work on papers |
