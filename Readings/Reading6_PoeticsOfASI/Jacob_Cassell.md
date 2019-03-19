@@ -1,4 +1,4 @@
-#Reading 6 Response
+# Reading 6 Response
 
 The concept of Artificial Super Intelligence is very cool and very scary, and has within it, the possibility for a scary, dystopian future. The author, Nora N. Khan makes the assertion that Artificial Super Intelligences are somewhat like a holy, or divine being. They are something infinitely smarter, faster, and more capable than any human intelligence. However, these are not made in the image of God, but in the image of the brain of man. In the essay, the author states something very interesting. She quotes Jackie Wang’s essay ‘We Epistolary Aliens’ by stating that “we strain to imagine foreignness, but we don’t get very far from what we know,” and this means what it says. It is hard for us to imagine something foreign because we can only really imagine based on what we already know. Applying this to our concept of ASIs, we would not understand what an ASI is doing, so we may misunderstand it as a slow, sluggish, mass. What we need, she asserts, is an imaginative paradigm shift.
 
