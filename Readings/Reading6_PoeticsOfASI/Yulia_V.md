@@ -7,7 +7,7 @@ The author makes poetic metaphors of ASI to help readers fully understand its qu
 
 Computers are everywhere today. Technology is becoming more and more intelligent and it benefits us all. However, what if making computers too intelligent can be to our disadvantage. People like reading books and watching movies about future and how people live among cyborgs and other intelligent machines.. it is all exiting and fascinating until it becomes true. Nobody knows how it is going to affect our lives. It will definitely benefit some aspects of our lives, for example, medicine and education, but the negative effects are inevitable. Humans can become lazy as machines now can everything for them or they won’t think  so the human mind and its capacities might to go waste. The worst thing that can happen which already shown in different movies , is when robot goes mad against society and becoming a trait to the humanity.
 
-After reading about all metaphors and all the facts about ASI, I feel like it is not necessary in our world. Humans are the most intelligent species on our planet and creating something that can potentially become smarter than us we put ourselves and our planet under control of this ASI. I would rather stay controlled by other humans rather than something else that can be unpredictable.
+After reading about all metaphors and all the facts about ASI, I feel like it is not necessary in our world. Humans are the most intelligent species on our planet and by creating something that can potentially become smarter than us we put ourselves and our planet under control of this ASI. I would rather stay controlled by other humans rather than something else that can be unpredictable.
 
 
 
