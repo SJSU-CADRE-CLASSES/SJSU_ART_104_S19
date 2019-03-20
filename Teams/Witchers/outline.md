@@ -1,4 +1,29 @@
-# Outline
+# New Topic
+
+## Outline
+
+### Gamekeeping: Gender Disparity and Gatekeeping in Gaming
+
+Topics To Discuss
+
+Gender Disparity in esports
+
+Women game avatars: wtf
+
+Institutional sexism embedded in games and technology
+-Jacob likes this one
+
+What does all this say?
+How do we understand intersectionality in a game space?
+
+
+
+
+
+
+# Old Topic
+
+## Esports
 
 Discuss the meteoric rise of esports (only a few years since it started, technological advancements that made this possible)
 
