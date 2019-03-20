@@ -4,17 +4,17 @@
 
 ### Gamekeeping: Gender Disparity and Gatekeeping in Gaming
 
-Topics To Discuss
+Topics To Discuss:
 
-Gender Disparity in esports
+-Gender Disparity in esports
 
-Women game avatars: wtf
+-Women game avatars: wtf
 
-Institutional sexism embedded in games and technology
--Jacob likes this one
+-Institutional sexism embedded in games and technology
+--Jacob likes this one
 
-What does all this say?
-How do we understand intersectionality in a game space?
+-What does all this say?
+--How do we understand intersectionality in a game space?
 
 
 
