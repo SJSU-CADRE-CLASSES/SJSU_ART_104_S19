@@ -16,6 +16,10 @@
  7.https://www.entrepreneur.com/article/321560
  
  8. https://sjsu-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?vid=01CALS_SJO&search_scope=EVERYTHING&tab=everything&docid=01CALS_ALMA991000180229702913&lang=en_US&context=L&adaptor=Local%20Search%20Engine&query=any,contains,credit%20score&sortby=rank&facet=tlevel,include,online_resources$$I01CALS_SJO&offset=0
+ 
+ 9. https://www.vox.com/the-goods/2018/11/2/18057450/china-social-credit-score-spend-frivolously-video-games 
+ 
+ 10. https://www.thenation.com/article/china-social-credit-system/
 
 
 
