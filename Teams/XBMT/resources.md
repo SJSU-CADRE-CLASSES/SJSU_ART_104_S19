@@ -7,3 +7,19 @@
 
 4. https://www.theverge.com/2019/3/1/18246297/china-transportation-people-banned-poor-social-credit-planes-trains-2018
  (4. banned 23million times not people)
+5. https://fee.org/articles/china-s-social-credit-scheme-will-create-more-corruption-not-a-better-citizenry/
+6. https://www.apnews.com/9d43f4b74260411797043ddd391c13d8
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=OubM8bD9kck
+https://www.youtube.com/watch?v=4ZyqVqbk4w4
