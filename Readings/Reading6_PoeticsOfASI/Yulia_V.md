@@ -1,0 +1,15 @@
+ Reading 6 Towards a Poetics of Artificial Superintelligence
+
+Nora N.Khan’s article talks about a poetics of artificial superintelligence.
+I find it interesting how the author defines superintelligence -  is an urgent, slightly crazed, and relentless piece of speculative work, outlining the myriad ways in which we face the coming emergence of ASI, which might be an existential, civilizational catastrophe. She says that super AI is basically God and it is an extraordinary being that people can worship to. 
+
+The author makes poetic metaphors of ASI to help readers fully understand its qualities. Metaphors that she mentions is ASI being a hurricane, an architect, a sovereign, a star system, a frontline, a search party, an agent, a swarm, and a scaffolding. The one metaphor I particularly didn’t like is a hurricane. “A hurricane is a most sublime metaphor, perfectly attuned for how potentially destructive a true ASI could be.” What I don’t like about is that this metaphor can be very true if ASI will ever exist. People already understand the consequences of the creation of ASI, nonetheless, we are going towards this direction. The good thing is that we are too far from creating ASI as our technology isn’t advanced enough. There is also something good about ASI- “Intelligence is power, and an ASI that is hundreds of thousands of times more intelligent than a person makes for an entity of unimaginable supremacy, using vast amounts of resources and energy to cohere. It is bound together by invisible, internal and irrefutable forces. It is remote.” This will definitely be an advantage of ASI being better than a human brain in terms of storage and reliability. I wonder what would that mean to us humans if we make something that better than us in everything..
+
+Computers are everywhere today. Technology is becoming more and more intelligent and it benefits us all. However, what if making computers too intelligent can be to our disadvantage. People like reading books and watching movies about future and how people live among cyborgs and other intelligent machines.. it is all exiting and fascinating until it becomes true. Nobody knows how it is going to affect our lives. It will definitely benefit some aspects of our lives, for example, medicine and education, but the negative effects are inevitable. Humans can become lazy as machines now can everything for them or they won’t think  so the human mind and its capacities might to go waste. The worst thing that can happen which already shown in different movies , is when robot goes mad against society and becoming a trait to the humanity.
+
+After reading about all metaphors and all the facts about ASI, I feel like it is not necessary in our world. Humans are the most intelligent species on our planet and creating something that can potentially become smarter than us we put ourselves and our planet under control of this ASI. I would rather stay controlled by other humans rather than something else that can be unpredictable.
+
+
+
+
+
