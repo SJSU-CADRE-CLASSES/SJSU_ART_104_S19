@@ -10,6 +10,8 @@
 5. https://fee.org/articles/china-s-social-credit-scheme-will-create-more-corruption-not-a-better-citizenry/
 6. https://www.apnews.com/9d43f4b74260411797043ddd391c13d8
 7.https://www.entrepreneur.com/article/321560
+8. https://sjsu-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?vid=01CALS_SJO&search_scope=EVERYTHING&tab=everything&docid=01CALS_ALMA991000180229702913&lang=en_US&context=L&adaptor=Local%20Search%20Engine&query=any,contains,credit%20score&sortby=rank&facet=tlevel,include,online_resources$$I01CALS_SJO&offset=0
+
 
 
 
