@@ -13,7 +13,7 @@ Topics To Discuss:
 -Institutional sexism embedded in games and technology
 --Jacob likes this one
 
--What does all this say?
+-Conclusion: What does all this say?
 --How do we understand intersectionality in a game space?
 
 
