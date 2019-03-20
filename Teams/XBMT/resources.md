@@ -9,6 +9,7 @@
  (4. banned 23million times not people)
 5. https://fee.org/articles/china-s-social-credit-scheme-will-create-more-corruption-not-a-better-citizenry/
 6. https://www.apnews.com/9d43f4b74260411797043ddd391c13d8
+7.https://www.entrepreneur.com/article/321560
 
 
 
