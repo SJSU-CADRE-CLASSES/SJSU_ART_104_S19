@@ -20,7 +20,7 @@
  
  10. https://www.thenation.com/article/china-social-credit-system/
 
-11. 
+11. https://observer.com/2018/02/america-isnt-far-off-from-chinas-social-credit-score/
 
 
 
