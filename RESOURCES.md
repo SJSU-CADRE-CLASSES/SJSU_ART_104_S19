@@ -96,3 +96,16 @@ Internet Aesthetics
 7. Lamprey https://www.google.com/search?q=lamprey&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiqprzngf7gAhXMo54KHWmDDxcQ_AUIDigB&biw=1683&bih=848&dpr=1.1
 8. Nick Bostrom https://nickbostrom.com/
 
+3/19
+1. Sabrina Ratte https://vimeo.com/238454451
+2. Artificial General Intelligence https://en.wikipedia.org/wiki/Artificial_general_intelligence
+3. Wabbit Virus https://www.thesecuritybuddy.com/dos-ddos-prevention/what-is-rabbit-virus/ and fork bomb https://askubuntu.com/questions/159491/why-did-the-command-make-my-system-lag-so-badly-i-had-to-reboot
+4. Stuxnet https://en.wikipedia.org/wiki/Stuxnet
+5. EyeWriter https://vimeo.com/70932989
+6. Field Programmable Gate Array https://en.wikipedia.org/wiki/Field-programmable_gate_array
+7. Angela Washko https://angelawashko.com/section/437138-The-Game-The-Game.html
+8. AI Artwork sold at Christies https://www.christies.com/features/A-collaboration-between-two-artists-one-human-one-a-machine-9332-1.aspx with rebuttle from artist https://hyperallergic.com/468060/christies-sells-ai-generated-art-for-432500-as-controversy-swirls-over-creators-use-of-copied-code/
+9. Hyphen-Labs http://www.hyphen-labs.com/
+10. ASI https://en.wikipedia.org/wiki/Superintelligence
+11. Moore's Law https://en.wikipedia.org/wiki/Moore%27s_law
+
