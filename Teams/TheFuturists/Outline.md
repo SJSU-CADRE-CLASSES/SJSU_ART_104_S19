@@ -12,6 +12,15 @@ The future of Artificial Intelligence in the medical field will save a lot of pe
 
 Even though Artificial Intelligence will greatly improve in the future it will not replace doctors but are only there to support them. One of the main reasons AI will never replace doctors is that AI doesn’t have any emotions. AI wouldn’t have the emotion to communicate with the person that has medical problems therefore people will always seek a human doctor. There is also a lot of mistrust in AI because they are made specifically to gather data and evaluate based only on those data, so people won’t naturally believe them. Another important reason that AI will only be a support to doctors and are not there to replace them is that AI’s are not meant to become what a fully pledged doctor is supposed to be. AI’s are meant to gather information/data on patients and suggest the possible outcome the patient might have, but it is still the doctor’s job to evaluate the patient’s condition based on the data that they were given. In the near future, AI will be amazing at gathering many information on how to help people that their main job will be to evaluate people based on data to help clinicians save as many lives as possible. 
 
+Rachel's rough draft research 
+AI for diagnostics
+there is a plethora of medical image data that is sorted and organized everyday, AI would speed up that process making the readings more accurate and time efficient, it could also offer a wider range of medical solutions that one doctor could not
+an already successful testing of this idea was done by stanford University research project by the name of ChexNet, they have already programmed AI to diagnose pneumonia based on x ray images of frontal chest views, its a more accurate way of analyzing thousands of different images that even the most skilled radiologist could misdiagnose, reduce errors, in the end the algorithm beat and outperformed four of Stanfords qualified radiologist
+AI as chatbots to help people diagnose the problem, traveling healthcare AI bots could be the solution for world heath in areas which doctors arnt widely available, imagine a future where everyone has access to a doctor no matter where they are 
+
+https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/17664/A-Healthy-Future-for-Artificial-Intelligence-in-Healthcare.aspx
+
+
 https://bjgp.org/content/68/668/143
 
 https://www.healthcentral.com/slideshow/8-ways-artificial-intelligence-is-affecting-the-medical-field#slide=1
