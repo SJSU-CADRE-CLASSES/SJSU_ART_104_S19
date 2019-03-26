@@ -29,6 +29,10 @@ https://www.healthcentral.com/slideshow/8-ways-artificial-intelligence-is-affect
 <p>https://www.ijcai.org/proceedings/2018/0717.pdf</p>
 <p>3. AR medical field</p>
 <p> -Savannah</p> 
+<p>The use of Augmented reality has been successful and promising in the medical field Augmented reality applications are being developed to help train medical professionals. It can be used as a navigation tool for surgical procedures and help enhance visualization in the operating room. It has been used to create reconstructions of the human body in real time to make surgery easier. It has been already been applied to neurosurgery. AR applications can also be used as a therapeutic tool for patients. AR is being developed to help treat people with phobias and other psychological disorders. AR adds an extra layer to VR which makes it more interactive. AR is in development to become simplier and easier for physicians to use and get feedback from. The technology of AR is still relatively new but research has shown that it can be potentially used for diagnosis and treatment of patients and in more challenging procedures in the future.
+<p> https://link.springer.com/article/10.1007/s00464-016-4800-6 </p>
+<p> https://jamanetwork.com/journals/jama/fullarticle/199759 </p> 
+<p>https://jamanetwork.com/journals/jamasurgery/article-abstract/396410 </p>
 <p>4. VR? </p> 
 <p> -Jasmine</p>
 <p>THESIS: 
