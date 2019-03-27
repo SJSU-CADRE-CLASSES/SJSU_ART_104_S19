@@ -1,8 +1,13 @@
 # New Topic
 
-## Outline
+# Outline
 
-### Gamekeeping: Gender Disparity and Gatekeeping in Gaming
+## Gamekeeping: Gender Disparity and Gatekeeping in Gaming
+
+### Intro Paragraph
+There are upsetting sexist things that happen on the internet. Gender disparity, women game avatars, institutional sexism. We stand in celebration of intersectionality, and denounce anonymity for only putting a bandaid on a deep-rooted problem of people being racist, sexist assholes. This behavior is perpetuated by the echo chamber of the anonymous internet.
+
+
 
 Topics To Discuss:
 
@@ -16,8 +21,11 @@ Topics To Discuss:
 -Conclusion: What does all this say?
 --How do we understand intersectionality in a game space?
 
+-People are assholes and still try to find things to to think they are better than others. "I am grey-er and blobbier than you." Good thing to discuss.
 
+this behavior has an impact on children.
 
+Our stance- we stand in celebration of intersectionality, and denounce anonymity for only putting a bandaid on a deep-rooted problem of people being racist, sexist assholes. This behavior is perpetuated by the echo chamber of the anonymous internet.
 
 
 
