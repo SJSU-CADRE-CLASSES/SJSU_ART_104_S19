@@ -1,6 +1,4 @@
-# New Topic
-
-# Outline
+# New Topic, Outline
 
 ## Gamekeeping: Gender Disparity and Gatekeeping in Gaming
 
