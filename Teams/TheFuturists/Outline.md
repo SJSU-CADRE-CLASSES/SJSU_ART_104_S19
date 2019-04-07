@@ -23,9 +23,11 @@ Even though Artificial Intelligence will greatly improve in the future it will n
 <p>AI for diagnostics</p>
 <p>there is a plethora of medical image data that is sorted and organized everyday, AI would speed up that process making the readings more accurate and time efficient, it could also offer a wider range of medical solutions that one doctor could not
 an already successful testing of this idea was done by stanford University research project by the name of ChexNet, they have already programmed AI to diagnose pneumonia based on x ray images of frontal chest views, its a more accurate way of analyzing thousands of different images that even the most skilled radiologist could misdiagnose, reduce errors, in the end the algorithm beat and outperformed four of Stanfords qualified radiologist</p>
-<p>AI as chatbots to help people diagnose the problem, traveling healthcare AI bots could be the solution for world heath in areas which doctors arnt widely available, imagine a future where everyone has access to a doctor no matter where they are
+<p>AI as chatbots to help people diagnose the problem, traveling healthcare AI bots could be the solution for world heath in areas which doctors arnt widely available, imagine a future where everyone has access to a doctor no matter where they are</p>
+<p>AR could be the key to faster and more accurate medical procedures. It could change the doctor and patient interaction to be more personable and helpful. With advanced AR technology we could project patient records and medical history during check ups or operations. This could be a way to assist the doctor not only with patient data but medical information such as organ placements and the patients vital levels during surgery. Google Glass has already been on track to make these possibilities a reality. Imagine if this already existing technology was advanced enough for us to put on these glasses and be able to x-ray patients. Inventions like these could speed up the diagnose time between doctor and patients. Visual technologies like this could be displayed in front of the patient to help them better understand their health problems.</p>
 
-https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/17664/A-Healthy-Future-for-Artificial-Intelligence-in-Healthcare.aspx</p>
+<p>https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/17664/A-Healthy-Future-for-Artificial-Intelligence-in-Healthcare.aspx</p>
+<p>https://medicalfuturist.com/top-9-augmented-reality-companies-healthcare</p>
 
 
 https://bjgp.org/content/68/668/143
