@@ -1,4 +1,5 @@
-*Pretend to Be a Bot, Rehumanize the Web
+Pretend to Be a Bot, Rehumanize the Web
+======
 by Sebastian Schmieg 
 
 Some of the underlying ideas of Schmeig is that AI is currently moving humans towards being robotized, meaning we are working to be be the most efficient and fastest versions of ourselves because that is what is currently required to keep a job, to be the best, to continue living really. 
