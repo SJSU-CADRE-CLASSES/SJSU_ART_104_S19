@@ -1,1 +1,8 @@
 
+ Identify Yourself was an interesting read because of how close it relates to this generation. Due to the fact that social media has basically become a huge part of our lives. It has become quite an addiction for the youth and even some adults nowadays that we’d at least go on social media one a day, if not more. The article states that with the rise of internet, it has allowed us to communicate and access knowledge in a more efficient and easy way than it used to be. No doubt the internet has been a great invention for the use of humankind, but at the same time, I feel like it has affected us and changed our way of living. 
+ <br>
+ <br>
+While the internet has allowed us to intake information easier, it has also changed ourselves as an individual. Due to social media, people have been lying about their identity and who they are on the internet compared to who they really are inside. It also leads to dangers, because those who are not careful enough and mindlessly put their information on the internet is at risk of criminals who also have easy access to the internet like any other would. The internet has also influenced teenagers to be more sexualized and we’ve come to this age of doing what is morally wrong than what is right. 
+<br>
+<br>
+Internet has created our identity in that we follow what it shows us. We’ve been influenced by the internet so much that it is a part of our lives. Granted, I am not saying that I am not grateful, I am truly grateful for the internet and how easy and more accessible information has become. In the end, I think I am just questioning some actions that society has made throughout the centuries and whether or not these actions have become a good thing or an evil that will continue to change how we live. 
