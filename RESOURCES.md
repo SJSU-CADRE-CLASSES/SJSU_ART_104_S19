@@ -109,3 +109,20 @@ Internet Aesthetics
 10. ASI https://en.wikipedia.org/wiki/Superintelligence
 11. Moore's Law https://en.wikipedia.org/wiki/Moore%27s_law
 
+4/9
+1. Plug and Pray https://en.wikipedia.org/wiki/Plug_%26_Pray
+2. Manovich Visual Earth http://manovich.net/index.php/projects/visual-earth
+3. Lu Yang https://radiichina.com/lu-yang-interview/
+4. Raddical Software http://www.radicalsoftware.org/e/index.html
+5. Jezzamon Fourier http://www.jezzamon.com/fourier/index.html
+6. Dead Drop https://www.google.com/search?q=dead+drop&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjooPXnr8ThAhX4FjQIHWxrCykQ_AUIDygC&biw=1085&bih=735
+7. Artist and Computer https://www.atariarchives.org/artist/cover.php
+8. Leonardo https://www.leonardo.info/about
+9. Whole Earth Catalog http://www.wholeearth.com/index.php
+10. Martha Rosler https://www.youtube.com/watch?v=EMxo_3Ppr8Y
+11. Anthony Antonellis https://www.anthonyantonellis.com/
+12. Salome Asega & Ayodamola Okunseinde https://vimeo.com/178736451
+13. Deep Dream https://en.wikipedia.org/wiki/DeepDream
+14. Andrew Blanton Waveguide http://ec2-52-40-90-40.us-west-2.compute.amazonaws.com/
+15. Google Engineers https://www.bloomberg.com/news/articles/2018-06-21/google-engineers-refused-to-build-security-tool-to-win-military-contracts
+16. Occupy.here http://occupyhere.org/
