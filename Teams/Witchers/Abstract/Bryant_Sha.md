@@ -1,6 +1,11 @@
-# Abstract
-Esports (Electronic Sports) has actually been around since the rise of online multiplayer games but never became more than an extremely
-niche community that was frowned upon. 11 years later, technological advancements to online streaming and social media, along with the
-explosive popularity of video games helped to bring these virtual athletes into the mainstream. Games such as: *League of Legends,
-Fortnite, Counter-Strike: Global Offensive, and Overwatch* have a cultural out-reach that touches even those who don't play such games.
-What was once a mere fad, has become an international sensation that is here to stay until the ends of mankind.
+# (UPDATED) Abstract
+The video game community is an extremely volatile and ever growing group that has endured a lot. Many strides have been taken over the years to make the world of video games a more inclusive group of people who desire to frag each other for several hours within a virtual world. Despite men traditionally being the vocal majority of gamers, “according to the Entertainment Software Association report in 2013, 55% of game players are male and 45% are females (Kondrat, 2015). This important statistic basically correlates to women having just as much interest for video games as their male counterparts. However, it also brings to attention how poorly represented women are portrayed in video games. Although there are some well-known exceptions like Street Fighter’s Chun-Li or Resident Evil’s Jill Valentine, many of them fall into the stereotype of “damsels in distress” or showcased “as objects of the male gaze: most women appear to be hardly older than 30, in most cases wear skin tight, figure-accenting clothing and are slim (Kondrat, 2015).” It’s importantly to realize thought that it is not a problem exclusive to games. The problem actually lies further up the ladder, and that entity is called “established social norms.” As video games are an entertainment industry that has since overtaken television and cinema and has become one of the largest media outlets of the modern world. Just like any industry however, money will always be the ultimate goal and the best way to maximize profit is to appeal to the largest possible audience. Even 2019, this is why overly-sexualized character designs continue to fill the headlines. Our society wants all women to only be seen as sexual objects dividing players into those who strive to challenge these principles in a medium they love while others may choose to be accept and believe “that’s how it has always been.”
+
+Lara Croft from Tomb Raider could easily be argued as well represented female character. After all, if you examine her objectively, “she is independent, strong, smart, wealthy, and has an amazing body and countless skills...a perfect fantasy for both girls, who want to like her, and boys, who want to be someone like her (Kondrat, 2015). Unfortunately the marketing team ended up designing their campaign around Lara’s physical features as much as they could. Promotional art of Lara in sensual poses and even half-naked female models at trade shows. 
+
+Although it is impossible to completely ignore stereotyping, it is entirely possible to represent them in a light that is appealing to both genders.
+
+
+
+
+Xeniya Kondrat. “Gender and Video Games: How Is Female Gender Generally Represented in Various Genres of Video Games?” Journal of Comparative Research in Anthropology and Sociology, vol. 6, no. 1, 2015, pp. 171–193.
