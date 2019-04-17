@@ -52,8 +52,13 @@ Bibliography
 
 ² Davenport, Anthony. “America Isn't Far Off From China's 'Social Credit Score'.” Observer, Observer, 22 Feb. 2018, observer.com/2018/02/america-isnt-far-off-from-chinas-social-credit-score/.
 
-³ Buckley, Chris, and Amy Qin. “Muslim Detention Camps Are Like 'Boarding Schools,' Chinese Official Says.” The New York Times, The New York Times, 12 Mar. 2019, www.nytimes.com/2019/03/12/world/asia/china-xinjiang.html.
+³ Klein, Aaron. “The Real Problem with Credit Reports Is the Astounding Number of Errors.” CNBC, CNBC, 27 Sept. 2017, www.cnbc.com/2017/09/27/the-real-problem-with-credit-reports-is-the-astounding-number-of-errors-equifax-commentary.html.
 
-4 Mcdonald, Joe. “China Bars Millions from Travel for 'Social Credit' Offenses.” AP NEWS, Associated Press, 23 Feb. 2019, www.apnews.com/9d43f4b74260411797043ddd391c13d8.
+⁴ Mozur, Paul. “Inside China's Dystopian Dreams: A.I., Shame and Lots of Cameras.” The New York Times, The New York Times, 8 July 2018, www.nytimes.com/2018/07/08/business/china-surveillance-technology.html.
 
-5 “China’s Social Credit System – It’s Coming to the United States.” Katusa Research. March 1, 2019. Accessed April 15, 2019. https://katusaresearch.com/chinas-social-credit-system-coming-to-united-states/
+
+5Buckley, Chris, and Amy Qin. “Muslim Detention Camps Are Like 'Boarding Schools,' Chinese Official Says.” The New York Times, The New York Times, 12 Mar. 2019, www.nytimes.com/2019/03/12/world/asia/china-xinjiang.html.
+
+6 Mcdonald, Joe. “China Bars Millions from Travel for 'Social Credit' Offenses.” AP NEWS, Associated Press, 23 Feb. 2019, www.apnews.com/9d43f4b74260411797043ddd391c13d8.
+
+7 “China’s Social Credit System – It’s Coming to the United States.” Katusa Research. March 1, 2019. Accessed April 15, 2019. https://katusaresearch.com/chinas-social-credit-system-coming-to-united-states/
