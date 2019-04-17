@@ -1,6 +1,11 @@
 A Social Numbers Game
  
 Abstract
+
+<br>
+<br>
+<br>
+<br>
 	In an ideal world everyone is contributing to their society,crimes are low or non-extent, and everyone is happy with what they are given and have. This Utopia is what a government should be aiming for, and also provide the necessary tools for this dream. A quote from Robert V. Hine in California’s Utopian Colonies ,“A group of people who are attempting to establish a new social pattern based upon a vision of the ideal society and who have withdrawn themselves from the community at large to embody that vision in experimental form." Findings on how China became the prime candidate for the social score concept and how the United States could potentially adapt a similar concept will be discussed in this article. The people play a big role on how far the government can go with monitoring and controlling their citizens.  Overview of China’s bank gave us information on how well China’s economy is doing and why people in China might believe they are doing better with their new government.  “GDP growth has averaged nearly 10% a year—the fastest sustained expansion by a major economy in history—and more than 850 million people have lifted themselves out of poverty.”¹ People in China believe that the government is doing great and questioning the flaws would cause others to shun you. The punishment for having a lower social score in China is devastating and unfair and it affects a numerous amount of people. ”In China, your social credit score determines everything from how much interest you pay on a loan to how easily you can rent a car or get a visa to travel overseas.”²   Government surveillance in the United States have already became a thing, but the government have not released or plan to use the information they gain for public use or make public.  We will be discussing the concept of social score in China and United States, how it works and what effects it has on the people being monitored.
 
 <br>
