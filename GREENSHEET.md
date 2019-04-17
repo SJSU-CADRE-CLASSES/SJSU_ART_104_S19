@@ -89,10 +89,10 @@ Schedule
 | *Week 12* 04/16     | **First Draft of Final Papers Due** ** Presentation + Discussion ** **Reading 10: assigned in class** ** Research and in class work on papers ****|
 | *Week 13* 04/22     | ATC 9-12:30 MLK 225 |
 | *Week 13* 04/23     | ATC 9-12:30 MLK 225 |
-| *Week 14* 04/23     | **Reading 10 Due** ** Presentation + Discussion ** **Reading 11: assigned in class** ** Research and in class work on papers |
-| *Week 15* 04/30     | **Reading 11 Due** Research and in class work on papers |
+| *Week 13* 04/23     | **Reading 10 Due** ** Presentation + Discussion ** **Reading 11: assigned in class** ** Research and in class work on papers |
+| *Week 14* 04/30     | **Reading 11 Due** Research and in class work on papers |
 | Date TBA            | **Hammer Graduating Group Show** |
-| *Week 16* 05/07     | Final presentations ** Final 7-page paper due no later than Sunday, December 17th The final paper and project format will be assigned in class on Wednesday, November 4th and available online in PDF format |
+| *Week 15* 05/07     | Final presentations ** Final 7-page paper due no later than Sunday, December 17th The final paper and project format will be assigned in class on Wednesday, November 4th and available online in PDF format |
 | *Final*  TBA      | Final Released |
 |                  |  |
 
