@@ -8,6 +8,8 @@ A Social Numbers Game
 
 <br>
 <br>
+A Social Numbers Game
+<br><br>
 	 Social score is the idea that each individual person in the world would have a number defining their level of influence and/or contribution to their community. This concept in reality could lead to a better society if applied right and the punishment for having a low score isn’t sever and an individual can improve their score by improving their behavior and changing their lifestyle. But when applied wrong it could lead to a society that is easily manipulated and stripped of individuality. The government should try to rehabilitate these members not punish them and trap/contain them in their own environment. The government of China or countries that implemented the social score concept hide all their mishaps or things they wouldn’t want their citizens to see(concentration camps/bombings/massacres) so that they believe their country is doing better and that they themselves are doing better. ““Our lives are getting better day by day,” said Chen Liang, the local official. “For all of these good things, we really have to thank Xi Jinping and the party.””³ 
 <br>
 <br>
