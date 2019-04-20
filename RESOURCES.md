@@ -126,3 +126,12 @@ Internet Aesthetics
 14. Andrew Blanton Waveguide http://ec2-52-40-90-40.us-west-2.compute.amazonaws.com/
 15. Google Engineers https://www.bloomberg.com/news/articles/2018-06-21/google-engineers-refused-to-build-security-tool-to-win-military-contracts
 16. Occupy.here http://occupyhere.org/
+
+4/16
+1. Sandin IP https://vimeo.com/316214052
+2. Takeshi Murata https://vimeo.com/147761897
+3. Datamosh https://www.youtube.com/watch?v=tYytVzbPky8
+4. Soft Robotics https://softroboticstoolkit.com/resources-for-educators
+5. Hack a day softrobotics https://hackaday.io/projects?tag=soft%20robotics
+6. 4D printing https://www.instructables.com/howto/4d+printing/
+7. Windows93 https://www.windows93.net/#!virtualpc
