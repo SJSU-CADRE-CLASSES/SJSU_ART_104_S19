@@ -20,10 +20,18 @@ Bibliography
 
 Braithwaite, Andrea. “‘Seriously, Get out’: Feminists on the Forums and the War(Craft) on Women.” New Media & Society 16, no. 5 (August 2014): 703–18. doi:10.1177/1461444813489503. https://doi.org/10.1177/1461444813489503.
 
+Cuboniks, Laboria. Xenofeminism: A Politics for Alienation. GNU Public License. Accessed-. http://www.laboriacuboniks.net/#firstPage. 
+
 Fox, Jesse, and Bridget Potocki. "Lifetime Video Game Consumption, Interpersonal Aggression, Hostile Sexism, and Rape Myth Acceptance: A Cultivation Perspective." Journal of Interpersonal Violence 31, no. 10 (2016): 1912-931. https://doi.org/10.1177/0886260515570747. 
 
 Fox, Jesse and Tang, Wai Yen. "Sexism in Online Video Games: The Role of Conformity to Masculine Norms and Social Dominance Orientation." Computers in Human Behavior 33, no. C (2014): 314-20. https://doi.org/10.1016/j.chb.2013.07.014. 
+
+Hyphen-Labs. Hyphen-Labs: Interaction Studio. Hyphen-Labs Inc. Accessed-. http://www.hyphen-labs.com/.
+
 Xeniya Kondrat. “Gender and Video Games: How Is Female Gender Generally Represented in Various Genres of Video Games?” Journal of Comparative Research in Anthropology and Sociology, vol. 6, no. 1, 2015, pp. 171–193. 
+
+Washko, Angela. Angela Washko. Otherpeoplespixels. Accessed-. https://angelawashko.com/home.html.
+
  
  
  
