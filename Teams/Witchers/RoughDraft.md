@@ -37,9 +37,6 @@ Washko, Angela. Angela Washko. Otherpeoplespixels. Accessed-. https://angelawash
  
  
 
-https://angelawashko.com/home.html
-http://www.laboriacuboniks.net/#firstPage (xenofeminism)
-http://www.hyphen-labs.com/
 
 Killing us softly. This is not a source, but it is really helpful especially for what Bryant was writing about.
 https://www.youtube.com/watch?v=xnAY6S4_m5I&has_verified=1
