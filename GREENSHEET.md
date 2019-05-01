@@ -85,13 +85,13 @@ Schedule
 | *Week 8* 03/19      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: assigned in class** ** Research and in class work on papers **Students Should Have 8 to 10 sources identified for Bibliography**|
 | *Week 9* 03/26      | **No In-Class Meeting** **Reading 8 Due to class Git** **Reading 9: posted** ** Research with team members on papers |
 | *Week 10* 04/02     | **Spring Recess - No Class!** |
-| *Week 11* 04/09     | **Reading 9 Due** ** Presentation + Discussion ** **No Reading Assigned for Next week: First Draft of Final Due** ** Research and in class work on papers |
+| *Week 11* 04/09     | ** Presentation + Discussion ** **No Reading Assigned for Next week: First Draft of Final Due** ** Research and in class work on papers |
 | *Week 12* 04/16     | **First Draft of Final Papers Due** ** Presentation + Discussion ** **Reading 10: assigned in class** ** Research and in class work on papers ****|
 | *Week 13* 04/22     | ATC 9-12:30 MLK 225 |
 | *Week 13* 04/23     | ATC 9-12:30 MLK 225 |
-| *Week 13* 04/23     | **Reading 10 Due** ** Presentation + Discussion ** **Reading 11: assigned in class** ** Research and in class work on papers |
-| *Week 14* 04/30     | **Reading 11 Due** Research and in class work on papers |
-| Date TBA            | **Hammer Graduating Group Show** |
+| *Week 13* 04/23     | ** Presentation + Discussion ** **Reading 11: assigned in class** ** Research and in class work on papers |
+| *Week 13* 04/27     | **Hammer Graduating Group Show** |
+| *Week 14* 04/30     | **Reading 9 Extra Credit Due** Research and in class work on papers |
 | *Week 15* 05/07     | Final presentations ** Final 7-page paper due no later than Sunday, December 17th The final paper and project format will be assigned in class on Wednesday, November 4th and available online in PDF format |
 | *Final*  TBA      | Final Released |
 |                  |  |
