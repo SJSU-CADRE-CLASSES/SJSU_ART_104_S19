@@ -135,3 +135,19 @@ Internet Aesthetics
 5. Hack a day softrobotics https://hackaday.io/projects?tag=soft%20robotics
 6. 4D printing https://www.instructables.com/howto/4d+printing/
 7. Windows93 https://www.windows93.net/#!virtualpc
+ 
+4/30
+1. Walter Giers https://vimeo.com/215810447
+2. Drop City https://vimeo.com/326204191
+3. Jeremy Bailey https://www.youtube.com/channel/UC_RrbILoc6ieJ8Beh-bfn8A
+4. How to hide from Cameras https://www.youtube.com/watch?v=kGGnnp43uNM
+5. dazzle camouflage https://www.google.com/search?q=dazzle+camouflage&source=lnms&tbm=isch&sa=X&ved=0ahUKEwir1ruAtPnhAhVBO30KHbr-CK8Q_AUIDigB&biw=1280&bih=791
+6. Furtherfield https://www.furtherfield.org/
+7. Eyebeam https://www.eyebeam.org/
+8. Rhizome http://rhizome.org/community/opportunities/
+
+5/7
+1. Lorna Mills http://www.digitalmediatree.com/sallymckay/LornaMillsImageDump/
+2. Eloquent JavaScript https://eloquentjavascript.net/
+3. The Book Of Shaders https://thebookofshaders.com/
+4. ShaderToy https://www.shadertoy.com/
