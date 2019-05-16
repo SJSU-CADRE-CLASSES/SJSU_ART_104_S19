@@ -93,7 +93,7 @@ Schedule
 | *Week 13* 04/27     | **Hammer Graduating Group Show** |
 | *Week 14* 04/30     | **Reading 9 Extra Credit Due** Research and in class work on papers |
 | *Week 15* 05/07     | Final presentations ** Final 7-page paper due no later than Sunday, December 17th The final paper and project format will be assigned in class on Wednesday, November 4th and available online in PDF format |
-| *Final*  TBA      | Final Released |
+| *Final* 5/21 @ 5:15 | Final Released |
 |                  |  |
 
 **University Policies**
