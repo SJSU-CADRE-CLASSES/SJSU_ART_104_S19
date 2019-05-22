@@ -1,0 +1,14 @@
+Granata's process is indeed deeply ingrained with the subject matter. Just as the lamprey makes its food part of itself as a parasite,
+the processing technology takes photographic images and makes it a part of itself. It is tantamount to the central idea and how meaning 
+can be assigned to different concepts and processes. But the processing sketch does not conceptualize the image it is seeing as a lamprey;
+just a series of data that it must convert into other data. In fact, very few creatures besides humans and some mammals are able to 
+recognize a picture as not a digital screen or a piece of paper, but rather something that has meaning beyond what it is. I think
+it's really important to remember this point, as it's such an abstract concept that pretty much only humans can assign different meanings
+than the subjects themselves. Lampreys in the photo are not aware they are being photographed, the technology does not think of itself
+as a parasitic creature, and the final animation does not know it is a moving lamprey. So I think it is really more theory than practice.
+Only other humans can look at this process and think "yes, it is indeed like a parasite".
+
+But in a way, it is also a practice, because of the way the data moves. Since a lamprey cannot get nutrients from anything besides
+animal flesh, the processing sketch specifically has to use image data to do what it does. But if there's one dissenting opinion that I have about the practice, it's the notion that it is parasitic. All living things absorb nutrients in some manner and make it part of themselves. For something to be parasitic, it lives inside or on its host and absorbs nutrients at the hosts' expense or effort. The processing sketch itself does not become part of the image; it rearranges the data to look like something else. In fact, it's not even like most digestion systems, which goes through a piece of something, extracts specific nutrients, and expels the waste. The processing sketch does not keep data and output something else, but just rearranges the data. I'd say the process is more like converting sheet music into song, or converting spoken language to written. It is the same data but with a different visualization.
+
+The article also talked about parasites as something negative, and indeed it does feel that way as humans are not parasitic creatures, and we have the knowledge how to secure excess nutrients for ourselves. But in nature, it is a legitimate survival tactic and many creatures depend on this to stay alive. They don't know things like morals, they only know their own efficient methods of staying alive. When viewing the world with a lens adjusted from human society, the world is split into things like "right" and "wrong", and concepts start applying to different things that we see- even though the situations existed first and humans found meanings for them later.
